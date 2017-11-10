@@ -16,6 +16,5 @@ function logWhisper(string) {
 
 
 function sayHiToGrandma(string) {
-if `${string}` === "HELLO!"
-  console.log("YES INDEED!")
+`${string}`.toLowerCase === `${string}`
 }
