@@ -21,5 +21,5 @@ uppercase.toUpperCase() === uppercase
 console.log("YES INDEED!")
 var lowercase = "hello!"
 lowercase.toLowerCase() === lowercase
-return "I can't hear you!"
+console.log("I can't hear you!")
 }
