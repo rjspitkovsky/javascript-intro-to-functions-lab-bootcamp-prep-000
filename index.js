@@ -16,5 +16,6 @@ function logWhisper(string) {
 
 
 function sayHiToGrandma(string) {
-return "YES INDEED!"
+if `${string}` === "HELLO!"
+  console.log("YES INDEED!")
 }
